@@ -1,0 +1,26 @@
+{
+  "common": {
+    "title": "Cake Admin"
+  },
+  "pages": {
+    "login": {
+      "sign_in": "登录",
+      "form": {
+        "username": {
+          "label": "用户",
+          "placeholder": "请输入用户名",
+          "rule": "请输入用户名"
+        },
+        "password": {
+          "label": "密码",
+          "placeholder": "请输入密码",
+          "rule": "请输入密码"
+        },
+        "validate": {
+          "success": "登录成功",
+          "error": "登录失败"
+        }
+      }
+    }
+  }
+}

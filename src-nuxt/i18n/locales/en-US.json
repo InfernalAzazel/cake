@@ -1,0 +1,26 @@
+{
+  "common": {
+    "title": "Cake Admin"
+  },
+  "pages": {
+    "login": {
+      "sign_in": "Sign In",
+      "form": {
+        "username": {
+          "label": "username",
+          "placeholder": "enter one username",
+          "rule": "enter one username"
+        },
+        "password": {
+          "label": "password",
+          "placeholder": "enter input a password",
+          "rule": "enter input a password"
+        },
+        "validate": {
+          "success": "login successful",
+          "error": "login failed"
+        }
+      }
+    }
+  }
+}

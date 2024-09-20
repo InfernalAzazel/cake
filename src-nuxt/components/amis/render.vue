@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import {  onMounted } from "vue";
 import 'amis/sdk/sdk.js';
-import 'amis/lib/themes/default.css';
+import "assets/css/theme.css";
 const props= defineProps({
   amisjson: {
     type: Object,
@@ -18,8 +18,9 @@ onMounted(() => {
 
 </script>
 <template>
-  <div id="box"></div>
+  <div class="dark:bg-black" id="box"></div>
 </template>
 <style>
+
 </style>
 

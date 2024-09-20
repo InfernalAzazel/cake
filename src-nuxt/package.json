@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
+    "@unocss/reset": "^0.62.4",
     "amis": "^6.8.0",
     "amis-core": "^6.8.0",
     "amis-editor": "^6.8.0",
@@ -23,11 +24,16 @@
     "unplugin-auto-import": "^0.18.3",
     "unplugin-vue-components": "^0.27.4",
     "vue": "latest",
+    "vue-i18n": "^10.0.1",
     "vue-router": "latest"
   },
   "packageManager": "pnpm@9.10.0+sha512.73a29afa36a0d092ece5271de5177ecbf8318d454ecd701343131b8ebc0c1a91c487da46ab77c8e596d6acf1461e3594ced4becedf8921b074fbd8653ed7051c",
   "devDependencies": {
+    "@iconify/vue": "^4.1.2",
+    "@nuxtjs/i18n": "9.0.0-alpha.2",
     "@unocss/nuxt": "^0.62.4",
+    "@vueuse/core": "^11.1.0",
+    "@vueuse/nuxt": "^11.1.0",
     "naive-ui": "^2.39.0",
     "unocss": "^0.62.4"
   }
